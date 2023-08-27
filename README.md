@@ -1,2 +1,2 @@
-# p2
+# project2
 website::https://mhamudulislam.github.io/p2/
